@@ -1,3 +1,4 @@
 # Machine-Learning-for-Web
 
-Week 1: "Stay Focused" - A project using ImageClassification for Video, which zooms the web browser smaller when you are with your phone in front of your beloved laptop. 
+Week 1: "Stay Focused" - Using ImageClassification for Video, the project zooms the web browser smaller when it sees you are with your phone in front of your laptop.
+[Video](https://www.youtube.com/watch?v=OSfAG028RHo)
