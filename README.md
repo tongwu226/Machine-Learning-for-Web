@@ -12,4 +12,4 @@
 
 [Documentation Video](https://youtu.be/a2VsdB-wjnE)
 
-[Code]((https://github.com/tongwu226/Machine-Learning-for-Web/tree/master/Week2)
+[Code](https://github.com/tongwu226/Machine-Learning-for-Web/tree/master/Week2)
