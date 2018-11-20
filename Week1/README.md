@@ -1,1 +1,1 @@
-##Week1: "Stay Focused"
+Week1: "Stay Focused"
