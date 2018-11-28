@@ -15,3 +15,5 @@ In this experience,
   And [im2txt](https://github.com/tensorflow/models/tree/master/research/im2txt) will be used to give the captions of returned images. 
 - The two captions generated then will be mixed with texts generated based on the drawing into a four-sentence poetry. 
 
+### Questions: 
+- text to image? [link](tps://codeburst.io/understanding-attngan-text-to-image-convertor-a79f415a4e89)
